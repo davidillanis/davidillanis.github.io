@@ -4,7 +4,7 @@ body {
     align-items: center;
     height: 100vh;
     margin: 0;
-    background: radial-gradient(circle,#AED6F1,#2874A6);
+    background: radial-gradient(circle,#758590,#2874A6);
 }
 .clase_login_input_text {
     border: none;
@@ -17,7 +17,7 @@ body {
     text-align: center;
 }
 .contenedor {
-    width: 300px;
+    width: 310px;
     padding: 20px;
     background-color: blue;
     border-radius: 15px;
@@ -37,11 +37,14 @@ body {
     color:#ffffff;
 }
 
-a{
+#obciones{
     color: #ffffff;
     text-decoration: none; 
 } 
-a:hover {
+#obciones:hover {
     color: #1db42c;
 }
- 
+#copy{
+    color: aquamarine;
+    text-align: center;
+}
